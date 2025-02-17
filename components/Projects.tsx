@@ -5,7 +5,7 @@ function Projects() {
         Projects
       </h3>
 
-      <h2 className="text-4xl uppercase text-gray-400 tracking-[20px]">
+      <h2 className="text-2xl md:text-3xl uppercase text-gray-400 tracking-[20px]">
         Coming Soon
       </h2>
     </section>

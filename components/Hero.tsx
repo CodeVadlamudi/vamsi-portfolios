@@ -11,7 +11,7 @@ function Hero() {
     deleteSpeed: 50,
   });
   return (
-    <section className="h-screen flex flex-col items-center justify-center overflow-hidden max-w-screen-md mx-auto px-10">
+    <section className="min-h-screen flex flex-col items-center justify-center overflow-hidden max-w-screen-md mx-auto px-10">
       <div className="flex flex-col-reverse items-center justify-center gap-10">
         {/* Hero Details */}
         <div className="text-center space-y-5">
