@@ -18,10 +18,10 @@ function Hero() {
           <h5 className="uppercase tracking-[7px] font-medium text-gray-400">
             React Front-End Developer
           </h5>
-          <h2 className="text-2xl md:text-4xl font-bold">
+          <h1 className="text-2xl md:text-4xl font-bold">
             I am <span className="text-orange-500">{text}</span>
             <Cursor cursorColor="#f97316" />
-          </h2>
+          </h1>
           <p className="md:text-lg">
             A passionate Front-End Developer focused on being a Software
             Developer and based in Vijayawada, AP, India.
