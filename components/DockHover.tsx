@@ -9,7 +9,7 @@ function DockHover() {
     <div className="relative">
       <Dock direction="middle">
         <DockIcon>
-          <SocialIcon network="github" bgColor="transparent" fgColor="#fff" />
+          <SocialIcon url="https://vamsi-portfolio-ten.vercel.app/" bgColor="transparent" fgColor="#fff" />
         </DockIcon>
         <DockIcon>
           <SocialIcon
@@ -22,7 +22,7 @@ function DockHover() {
           <SocialIcon network="twitch" bgColor="transparent" fgColor="#fff" />
         </DockIcon>
         <DockIcon>
-          <SocialIcon network="linkedin" bgColor="transparent" fgColor="#fff" />
+          <SocialIcon url="https://www.linkedin.com/in/vamsi-vadlamudi-52173b1aa/" bgColor="transparent" fgColor="#fff" />
         </DockIcon>
       </Dock>
     </div>
