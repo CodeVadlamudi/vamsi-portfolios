@@ -36,19 +36,9 @@ function Skills() {
           bgColor="bg-[#61dbfb]/10 hover:bg-[#61dbfb]/20 duration-300 w-full h-full p-4 sm:p-6 lg:p-10 object-contain"
         />
         <SkillCard
-          img="https://imgur.com/zVzqzoL.png"
-          title="Bootstrap"
-          bgColor="bg-[#7608f6]/10 hover:bg-[#7608f6]/20 duration-300 w-full h-full p-4 sm:p-6 lg:p-10 object-contain"
-        />
-        <SkillCard
           img="https://imgur.com/JTT3eTD.png"
           title="Tailwind CSS"
           bgColor="bg-[#14b4c6]/10 hover:bg-[#14b4c6]/20 duration-300 w-full h-full p-4 sm:p-6 lg:p-10 object-contain"
-        />
-        <SkillCard
-          img="https://imgur.com/bFM7W3d.png"
-          title="Styled Components"
-          bgColor="bg-[#e79576]/10 hover:bg-[#e79576]/20 duration-300 w-full h-full p-4 sm:p-6 lg:p-10 object-contain"
         />
         <SkillCard
           img="https://imgur.com/mbkleDt.png"
@@ -64,16 +54,6 @@ function Skills() {
           img="https://imgur.com/jRX7cre.png"
           title="Figma"
           bgColor="bg-[#a08cf8]/10 hover:bg-[#a08cf8]/20 duration-300 w-full h-full p-4 sm:p-6 lg:p-10 object-contain"
-        />
-        <SkillCard
-          img="https://imgur.com/XPloNuA.png"
-          title="TypeScript"
-          bgColor="bg-[#3178c6]/10 hover:bg-[#3178c6]/20 duration-300 w-full h-full p-4 sm:p-6 lg:p-10 object-contain"
-        />
-        <SkillCard
-          img="https://imgur.com/cBKbh3x.png"
-          title="Sanity"
-          bgColor="bg-[#f03f30]/10 hover:bg-[#f03f30]/20 duration-300 w-full h-full p-4 sm:p-6 lg:p-10 object-contain"
         />
       </div>
     </section>

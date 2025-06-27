@@ -20,7 +20,7 @@ function Header() {
     { href: "#contact", label: "Contact" },
   ];
   return (
-    <header className="sticky top-0 z-50 shadow-sm p-6">
+    <header className="sticky top-0 z-50 p-6 backdrop-blur-lg">
       <div className="container flex items-center justify-between">
         <Link
           href="#hero"
